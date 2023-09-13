@@ -20,6 +20,6 @@ VScode e GIThub
 
 ## Matérias utilizadas para a produção do curriculo
 Fundamentos de Desenvolvimento Web:
-Professor: https://github.com/leonardorochamarista
+Professor [Leonardo](https://github.com/leonardorochamarista)
 Lingua portuguesa
 Interioridades
