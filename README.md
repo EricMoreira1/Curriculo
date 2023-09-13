@@ -7,10 +7,7 @@ Tenho facilidade na língua inglesa, e tenho habilidades consideraveis na progrm
 ## Meus sonhos
 Ter sucesso com programação e ter um emprego que agregue para a minha vida
 
-## Eu
+## Curiosidades minhas
 
-![Uma foto minha](img/eric.jpg)
-
-## Uma foto do site
-
-![Site](img/foto_do_curriculo.png)
+Sou irmão mais velho de duas irmãs, nasci no dia 23 de maio de 2008,
+estudo no Marista escolas sociais e estou criando um jogo próprio.
