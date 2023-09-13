@@ -13,13 +13,16 @@ Sou irmão mais velho de duas irmãs, nasci no dia 23 de maio de 2008,
 estudo no Marista escolas sociais e estou criando um jogo próprio.
 
 ## Tecnologias utilizadas
-HTML, CSS3 e GIT
+* `HTML5`
+* `CSS3` 
+* `Git`
+* `Github`
 
 ## Ferramentas utilizadas 
-VScode e GIThub
+* `VScode` 
 
 ## Matérias utilizadas para a produção do curriculo
-Fundamentos de Desenvolvimento Web:
-Professor [Leonardo](https://github.com/leonardorochamarista)
-Lingua portuguesa
-Interioridades
+Fundamentos de Desenvolvimento Web:<br>
+Professor [Leonardo](https://github.com/leonardorochamarista)<br>
+Lingua portuguesa<br>
+Interioridades<br>
