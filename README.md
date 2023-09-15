@@ -1,7 +1,10 @@
 # Índice
 Meu currículo
 ## Sobre mim
-Meu nome é Eric Mendes Moreira e tenho 15 anos
+Meu nome é Eric Mendes Moreira e tenho 15 anos<br>
+
+![Foto minha](img/foto_do_curriculo.png)
+
 ## Minhas habilidades
 Tenho facilidade na língua inglesa, e tenho habilidades consideraveis na progrmação
 ## Meus sonhos
